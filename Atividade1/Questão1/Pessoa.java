@@ -1,4 +1,4 @@
-package Atividade1;
+package Questão1;
 public class Pessoa {
 	String nome;
 	int idade; 

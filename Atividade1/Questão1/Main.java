@@ -1,9 +1,7 @@
-
-package Atividade1;
+package Questão1;
 public class Main {
 
     public static void main(String[] arg) {
-
         Pessoa p1 = new Pessoa("Milena", 19);
         Pessoa p2 = new Pessoa("Kamily", 20);
 
@@ -16,3 +14,7 @@ public class Main {
     }
 
 }
+
+
+
+
